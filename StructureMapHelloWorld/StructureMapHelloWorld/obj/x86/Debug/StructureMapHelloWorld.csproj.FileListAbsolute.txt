@@ -1,0 +1,12 @@
+C:\POC\StructureMapHelloWorld\StructureMapHelloWorld\bin\Debug\StructureMapHelloWorld.exe.config
+C:\POC\StructureMapHelloWorld\StructureMapHelloWorld\bin\Debug\StructureMap.config
+C:\POC\StructureMapHelloWorld\StructureMapHelloWorld\bin\Debug\StructureMapHelloWorld.exe
+C:\POC\StructureMapHelloWorld\StructureMapHelloWorld\bin\Debug\StructureMapHelloWorld.pdb
+C:\POC\StructureMapHelloWorld\StructureMapHelloWorld\bin\Debug\StructureMap.dll
+C:\POC\StructureMapHelloWorld\StructureMapHelloWorld\bin\Debug\StructureMap.xml
+C:\POC\StructureMapHelloWorld\StructureMapHelloWorld\obj\x86\Debug\StructureMapHelloWorld.exe
+C:\POC\StructureMapHelloWorld\StructureMapHelloWorld\obj\x86\Debug\StructureMapHelloWorld.pdb
+C:\POC\StructureMapHelloWorld\StructureMapHelloWorld\obj\x86\Debug\StructureMapHelloWorld.csprojResolveAssemblyReference.cache
+C:\varun-github\samples\StructureMapHelloWorld\StructureMapHelloWorld\bin\Debug\StructureMapHelloWorld.exe.config
+C:\varun-github\samples\StructureMapHelloWorld\StructureMapHelloWorld\obj\x86\Debug\StructureMapHelloWorld.exe
+C:\varun-github\samples\StructureMapHelloWorld\StructureMapHelloWorld\obj\x86\Debug\StructureMapHelloWorld.pdb
